@@ -1,0 +1,66 @@
+body {
+    background-color: #ebebeb;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: Optima;
+}
+
+h3 {
+    font-family: Optima;
+}
+
+a {
+    font-family: sans-serif;
+    text-decoration: none;
+    color: #3d51ff;
+    transition: ease-in-out 0.2s;
+    border-bottom-style: dotted;
+    border-width: 1px;
+}
+
+a:hover {
+    border: none;
+    cursor: initial;
+    background-color: white;
+    padding: 10px;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+    /*width: 50%;*/
+    /*border-style: solid;*/
+}
+
+ul, ol li {
+    font-family: 'Raleway', sans-serif;
+    /*border-style: solid;*/
+    /*width: 50%*/
+}
+
+span {
+    color: red;
+}
+
+img {
+    width: 300px;
+    margin-left: 3em;
+    /*border-style: solid;*/
+}
+
+
+#content {
+    margin-left: 100px;
+    float: left;
+    /*border-style: solid;*/
+}
+
+.header {
+    margin-left: 4em;
+    margin-top: 4em;
+}
+
+.subheader {
+    margin-top: -25px;
+}
